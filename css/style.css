@@ -1,0 +1,67 @@
+body{
+    font-family: Roboto,Arial,sans-serif;
+}
+#container{
+    margin-left: 60px;
+    margin-right: 548px;
+    border: 1px solid black;
+    padding: 24px;
+    padding-right: 100px;
+}
+
+.edit{
+    font-size: 14px;
+    font-weight: 500;
+    color: #2874f0;
+    cursor: pointer;
+    padding-left: 25px;
+}
+.heads{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.inputText{
+    height: 30px;
+    padding: 10px;
+    border-radius: 4px;
+    border-style: solid;
+    border-color: rgb(224, 221, 221);
+    margin-right: 15px;
+    width: 250px;
+}
+#display{
+    display: block;
+}
+.label{
+    font-size: 14px;
+  margin-top: 25px;
+}
+.size{
+    color: #878787;
+    font-size: 16px;
+    margin-right: 32px;
+}
+#margin1{
+    margin-top: 50px;
+    margin-bottom: 50px
+}
+/*{
+    box-sizing: border-box;
+}*/
+#marbot{
+    margin-bottom: 50px;
+}
+#head4{
+    font-size: 14px;
+    margin-top: 30px;
+    margin-bottom:30px;
+    line-height: 1.5px; 
+    font-weight: 500px;
+}
+.account{
+    padding-top: 22px;
+    font-weight: 500px;
+    color:#2874f0;
+    
+}

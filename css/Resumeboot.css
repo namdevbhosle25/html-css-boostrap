@@ -1,0 +1,11 @@
+.container{
+      border: 2px solid black;
+      width: 60%;
+      height: auto;
+      background-color: aquamarine;
+}
+.margin{
+      margin-left: 25%;
+      margin-right:25% ;
+
+}

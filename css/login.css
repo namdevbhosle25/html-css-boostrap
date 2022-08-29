@@ -1,0 +1,51 @@
+body{
+    font-family: Roboto,Arial,sans-serif;
+    margin-top: 65px;
+    margin-left: 83px;
+    margin-right: 366px;
+}
+}
+#container{
+    margin-left: 70px;
+    margin-right: 548px;
+    border: 1px solid rgb(52, 38, 38);
+    padding: 24px;
+    padding-right: 100px;
+
+}
+.regform{
+    background-color: white;
+    padding-left: 60px;
+}
+.textcolor{
+  border-color: rgb(224, 221, 221);
+}
+.inlinetoblock{
+    display: block;
+    font-size: large;
+    padding: 5px;
+    margin-top: 15px
+    
+    
+}
+#btn1{
+    border-color: rgb(236, 232, 232);
+    color: rgb(229, 218, 218);
+    background: #FB641B;
+    width: 230px;
+}
+#btn2{
+    border-color: white;
+    color: #2874f0;
+    background:  white;
+    width: 230px;
+}
+#inputtext{
+        height: 30px;
+        padding: 10px;
+        border-radius: 4px;
+        border-style: solid;
+        border-color: rgb(224, 221, 221);
+        margin-right: 15px;
+        width: 250px;
+}

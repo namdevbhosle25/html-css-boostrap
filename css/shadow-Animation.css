@@ -1,0 +1,39 @@
+h1{
+    text-shadow: 6px 4px chocolate;
+    text-shadow: 7px 17px 4px chocolate, 3px 11px 2px green;
+    margin-left: 60px;
+    margin-top: 46px;
+    font-size: 105px;
+}
+h2{
+    margin-top: 207px;
+    margin-left: 342px;
+    background-color: darkturquoise;
+    margin-right: 319px;
+    font-size: 75px;
+    border: 2px solid;
+    border-right: -201px
+}
+#animationdiv{
+     height: 448px;
+     background-color: cornflowerblue;
+     width: 402px;
+    margin: 118px;
+    color: floralwhite;
+    font-size: 33px;
+    margin-left: 303px;
+    transition: width 4s,height 4s,background-color 4s,transform 1s, transition-delay 3s;
+}
+#animationdiv:hover{
+   width: 200px;
+    height: 150px;
+    color: gold;
+    background-color: red;
+    transform: rotate(360deg);
+
+}
+#animation{
+    font-size: 30px;
+    text-align: center;
+}
+

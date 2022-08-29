@@ -1,0 +1,95 @@
+*{
+    font-family: Arial,sans-serif;
+    font-weight: 300px;
+}
+body
+{
+    background-color: black;
+}
+h4{
+    position: relative;
+}
+#container{
+        margin: 100px;
+
+}
+#container1{
+    display: flex;
+    width: 60%;
+}
+#container2{
+    background: white;
+    text-align: center;
+    width: 60%;
+    height: 528px;
+}   
+.blocktoinline{
+    display: inline-block;
+}
+.inlinetoblock{
+    display: block;
+}
+.col{
+    height: 528px;
+    width: 40%;
+    padding: 30px 35px;
+}
+#formbox{
+    padding: 20px;
+}
+#color{
+    position: relative;
+    bottom: -120px;
+    color: #2874F0;
+}
+#login-text{
+   /* background-image: url(/assects/login_img.png);*/
+    background-position: center , 85%;
+    background-repeat: no-repeat;
+    background-color: #2874F0;
+    color: white;
+    
+}
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #2874F0;
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 16px;
+
+}
+#btn-login{
+    margin-top: 30px;
+    width: 350px;
+    height: 55px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #2874F0;
+    color: white;
+    border-radius: 2px;
+
+}
+#btn-otp{
+    margin-top: 30px;
+    height: 55px;
+    width: 350px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: white;
+    color: #2874F0;
+    border-radius: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+img{
+    
+    margin-block: 249px;
+    height: 110px;
+    margin-left: 35px;
+}
+}
